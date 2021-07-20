@@ -4,3 +4,5 @@
         > Material UI
         > React Context Api
         > React Hooks
+        > Hosted on firebase
+        
